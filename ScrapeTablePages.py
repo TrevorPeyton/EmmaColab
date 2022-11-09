@@ -41,7 +41,7 @@ path = r'C:\Users\cll319\Desktop'
 os.chdir(path)
 
 import json
-with open("skipped", "w") as fp:
+with open("skipped_pages", "w") as fp:
     json.dump(skipped_files, fp)
 
 with open("full_pages", "w") as fp:
