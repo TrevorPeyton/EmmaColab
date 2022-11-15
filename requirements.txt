@@ -1,0 +1,4 @@
+tesserocr
+Pillow
+pdf2image
+pandas
