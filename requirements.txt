@@ -1,4 +1,4 @@
-tesserocr
+pytesseract
 Pillow
 pdf2image
 pandas
